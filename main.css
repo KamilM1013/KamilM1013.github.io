@@ -4,8 +4,7 @@ html {
     }
     
     h1 {
-      margin-top: 2px;
-      margin-bottom: 0px;
+      margin: 2px 0 0 0;
       font: normal 40px 'Mukta', sans-serif;
       color: saddleBrown; 
     }
@@ -30,8 +29,7 @@ html {
     }
     
     img {
-      margin-right: 20px;
-      margin-top: 15px;
+      margin: 15px 20px 0 0;
       border: 6px outset brown;
       width: 250px;
     }
