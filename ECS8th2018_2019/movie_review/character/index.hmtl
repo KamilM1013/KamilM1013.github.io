@@ -1,10 +1,10 @@
 <!doctype html>
 <html>
     <head>
-        <title>Bruce Wayne (Batman)</title>
-        <link rel="stylesheet" href="https://kamilm1013.github.io/ECS8th2018_2019/movie_review/main.css">
-        <meta name="viewport" content="width=device-width">
-        <meta name="description" content="Info on Bruce Wayne from the movie "Batman Begins">
+          <title>Bruce Wayne (Batman)</title>
+          <meta name="viewport" content="width=device-width">
+          <meta name="description" content="Character Analysis on Bruce Wayne.">
+          <link rel="stylesheet" href="https://kamilm1013.github.io/ECS8th2018_2019/movie_review/main.css">
     </head>
     
     <header>
